@@ -1,0 +1,6 @@
+name: FlamePractice
+version: ${project.version}
+main: me.firewolf8385.flamepractice.FlamePractice
+softdepend: [ PlaceholderAPI ]
+authors: [ firewolf8385 ]
+website: http://www.github.com/firewolf8385/FlamePractice
